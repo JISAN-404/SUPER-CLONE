@@ -21,7 +21,7 @@ cd
 
 rm -rf SUPER-CLONE
 
-git clone https://github.com/JISAN-404/PUBLIC-V2https://github.com/JISAN-404/SUPER-CLONE.git
+git clone https://github.com/JISAN-404/SUPER-CLONE.git
 
 cd SUPER-CLONE
 
