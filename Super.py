@@ -16,11 +16,11 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        import Love64
+        import Love6
  
  
  
 elif bit == "32bit":
  
-        import Love32
+        import Love3
  
